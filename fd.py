@@ -1,5 +1,6 @@
 from pysine import sine
 import time
+#Ian Wahl 3rd Period - Hopes and Dreams
 
 c = 16.35
 cs = 17.32
